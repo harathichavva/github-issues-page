@@ -11,7 +11,7 @@ const GitHubComments = () => {
 
       const octokit = new Octokit({
         // user Personal token 
-        auth: "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",
+        auth: "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",
       });
 
       try {
